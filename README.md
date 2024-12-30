@@ -1,1 +1,1 @@
-# RceptorSolarConico
+# ReceptorSolarConico
